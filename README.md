@@ -29,5 +29,9 @@ Esses passos são um guia geral baseado nas informações disponíveis online. P
 
 https://github.com/WaldeniseMoraes/lab-natty-or-not/assets/161647255/f6c76dc1-acd0-46d7-9bd4-4637c166512f
 
+## 💭 Reflexão
+
+Criar algo “natty”, ou natural, com Inteligência Artificial (IA) é um desafio fascinante que envolve a combinação de tecnologia avançada com criatividade humana. O objetivo é produzir conteúdo que não apenas pareça realista, mas também seja convincente e autêntico aos olhos dos espectadores.
 
 
+Criado com 💌: Waldenise Moraes.
