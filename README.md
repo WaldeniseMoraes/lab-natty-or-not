@@ -1,35 +1,29 @@
 # Vídeo Aula Sobre IA's Generativas
 
-## 🚀 Introdução
+## 🚀 DESAFIO DE PROJETO:
+***Natty or Not?***
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
+Projeto realizado no Bootcamp Santander 2024 - Fundamentos de IA para Devs.
+Desenvolver um trecho de uma aula em vídeo de 1 minuto gerado totalmente por IA, com avatar e áudio.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* [ChatGPT](https://chat.openai.com/) - Criar roteiro para vídeo aula.
+* [D-ID](https://www.d-id.com/) - Gerar avatar e aúdio.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar um vídeo com avatar no D-ID, você pode seguir estes passos:
+1. Acesse o Site da D-ID:
+   Visite o site oficial da D-ID e crie uma conta de usuário. Você precisará fornecer algumas informações básicas para criar sua conta.
+2. Personalize seu Avatar:
+   Selecione um dos avatares pré-fabricados ou carregue uma imagem facial.
+3. Faça seu Avatar Falar:
+   Escreva o texto que deseja que seu avatar fale. Você pode escolher a linguagem e o estilo da voz.
+4. Crie o Vídeo:
+   No painel do editor, clique em “Create Video” e dê um nome ao projeto para facilitar a identificação.
+5. Pré-visualize e Baixe:
+   Pré-visualize o vídeo e, se estiver satisfeito com o resultado, baixe o vídeo no formato MP4.
+   
+Esses passos são um guia geral baseado nas informações disponíveis online. Para instruções mais detalhadas e específicas, é recomendável consultar os tutoriais e recursos fornecidos pela D-ID ou Canva, se você estiver usando essa plataforma integrada. Boa sorte com a criação do seu avatar! 🚀
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
@@ -38,14 +32,3 @@ Apresente os resultados do seu projeto
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
