@@ -26,9 +26,8 @@ Para criar um vídeo com avatar no D-ID, você pode seguir estes passos:
 Esses passos são um guia geral baseado nas informações disponíveis online. Para instruções mais detalhadas e específicas, é recomendável consultar os tutoriais e recursos fornecidos pela D-ID ou Canva, se você estiver usando essa plataforma integrada. Boa sorte com a criação do seu avatar! 🚀
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+https://github.com/WaldeniseMoraes/lab-natty-or-not/assets/161647255/f6c76dc1-acd0-46d7-9bd4-4637c166512f
+
+
 
