@@ -1,4 +1,4 @@
-# Video Aula Sobre IA's Generativas
+# Vídeo Aula Sobre IA's Generativas
 
 ## 🚀 Introdução
 
