@@ -1,4 +1,4 @@
-# Vídeo Aula Sobre Conceito de IA Generativa.
+# Projeto sobre IA Generativa.
 
 ## 🚀 DESAFIO DE PROJETO:
 ***Natty or Not?***
